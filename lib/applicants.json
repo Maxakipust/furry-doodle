@@ -1,0 +1,23 @@
+{
+    "Applicant 1": {
+        "prefrences": ["Manager 4", "Manager 3"]
+    },
+    "Applicant 2": {
+        "prefrences": ["Manager 3", "Manager 2"]
+    },
+    "Applicant 3": {
+        "prefrences": ["Manager 2", "Manager 1"]
+    },
+    "Applicant 4": {
+        "prefrences": ["Manager 1", "Manager 4"]
+    },
+    "Applicant 5": {
+        "prefrences": ["Manager 1", "Manager 2", "Manager 3", "Manager 4"]
+    },
+    "Applicant 6": {
+        "prefrences": ["Manager 2", "Manager 3"]
+    },
+    "Applicant 7": {
+        "prefrences": ["Manager 2"]
+    }
+}

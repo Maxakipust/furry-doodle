@@ -1,0 +1,18 @@
+{
+    "Manager 1": {
+        "prefrences": ["Applicant 4", "Applicant 2", "Applicant 5"],
+        "maxParteners": 2
+    },
+    "Manager 2": {
+        "prefrences": ["Applicant 7", "Applicant 4", "Applicant 3", "Applicant 5", "Applicant 6"],
+        "maxParteners": 2
+    },
+    "Manager 3": {
+        "prefrences": ["Applicant 6", "Applicant 2", "Applicant 1", "Applicant 5"],
+        "maxParteners": 2
+    },
+    "Manager 4": {
+        "prefrences": ["Applicant 1", "Applicant 3", "Applicant 5"],
+        "maxParteners": 2
+    }
+}

@@ -1,18 +1,255 @@
 {
-    "Manager 1": {
-        "prefrences": ["Applicant 4", "Applicant 2", "Applicant 5"],
-        "maxParteners": 1
-    },
-    "Manager 2": {
-        "prefrences": ["Applicant 7","Applicant 4", "Applicant 3", "Applicant 5", "Applicant 6"],
-        "maxParteners":1
-    },
-    "Manager 3": {
-        "prefrences": ["Applicant 6", "Applicant 2", "Applicant 1", "Applicant 5"],
-        "maxParteners": 1
-    },
-    "Manager 4":{
-        "prefrences": ["Applicant 1", "Applicant 3", "Applicant 5"],
-        "maxParteners": 1
-    }
+        "Ahn, Justin": {
+                "prefrences": [
+                        "Brecht, Eric",
+                        "Araujo, Victor",
+                        "Mancenido, Austin",
+                        "Johnson, Elizabeth",
+                        "Webb, Alyssa",
+                        "Smith, Elizabeth"
+                ]
+        },
+        "Albright, Kristen": {
+                "prefrences": [
+                        "Johnson, Elizabeth",
+                        "Webb, Alyssa",
+                        "Aguirre, Claudio",
+                        "Endrizzi, Kristen",
+                        "Ryan, Maura",
+                        "Chen, Liulin",
+                        "Li, Zhuoxi"
+                ]
+        },
+        "Almagro, Jonathan": {
+                "prefrences": [
+                        "Endrizzi, Kristen",
+                        "Chen, Liulin",
+                        "Johnson, Elizabeth"
+                ]
+        },
+        "Avitabile, John": {
+                "prefrences": [
+                        "Nicodemo, Carri"
+                ]
+        },
+        "Barrett, Brendan": {
+                "prefrences": [
+                        "Zehnder, Brendan",
+                        "Zhong, Min"
+                ]
+        },
+        "Chen, James": {
+                "prefrences": [
+                        "Li, Joyce",
+                        "Mancenido, Austin",
+                        "Perfetti, Jacqueline",
+                        "Zehnder, Brendan",
+                        "Lu, Karen",
+                        "Hao, Fei",
+                        "Kalina, Stephanie"
+                ]
+        },
+        "Curley, Patrick": {
+                "prefrences": [
+                        "Lam, Keith",
+                        "Webb, Alyssa",
+                        "Chen, Liulin",
+                        "Lu, Karen",
+                        "Quinn, Bryant"
+                ]
+        },
+        "Gada, Jigar": {
+                "prefrences": [
+                        "Perfetti, Jacqueline",
+                        "Endrizzi, Kristen",
+                        "Zhong, Min",
+                        "Boulanger, Jason"
+                ]
+        },
+        "Gault, Tim": {
+                "prefrences": [
+                        "Perfetti, Jacqueline",
+                        "Jang, Kevin",
+                        "Jiang, Wei"
+                ]
+        },
+        "Grabowski, Jan": {
+                "prefrences": [
+                        "Quinn, Bryant",
+                        "Jang, Kevin",
+                        "Ryan, Maura",
+                        "Aguirre, Claudio",
+                        "Chen, Liulin"
+                ]
+        },
+        "Helinek, Erica": {
+                "prefrences": [
+                        "Perfetti, Jacqueline",
+                        "Jang, Kevin"
+                ]
+        },
+        "Hendricks, Caitlin": {
+                "prefrences": [
+                        "Kalina, Stephanie",
+                        "Boulanger, Jason",
+                        "Jang, Kevin",
+                        "Zehnder, Brendan",
+                        "Aguirre, Claudio"
+                ]
+        },
+        "Hu, Guang-Yu": {
+                "prefrences": [
+                        "Aguirre, Claudio",
+                        "Li, Zhuoxi",
+                        "Endrizzi, Kristen",
+                        "Ryan, Maura",
+                        "Chen, Liulin"
+                ]
+        },
+        "Hunter, Rachel": {
+                "prefrences": [
+                        "Zhong, Min",
+                        "Li, Joyce",
+                        "Jang, Kevin"
+                ]
+        },
+        "Kelly, Scott": {
+                "prefrences": [
+                        "Endrizzi, Kristen"
+                ]
+        },
+        "Krakoff, Michael": {
+                "prefrences": [
+                        "Li, Zhuoxi",
+                        "Chen, Liulin",
+                        "Zhong, Min",
+                        "Jang, Kevin"
+                ]
+        },
+        "Lindberg, Charles": {
+                "prefrences": [
+                        "Kalina, Stephanie",
+                        "Brecht, Eric",
+                        "Nicodemo, Carri"
+                ]
+        },
+        "Malhotra, Atul": {
+                "prefrences": [
+                        "Aguirre, Claudio",
+                        "Quinn, Bryant",
+                        "Mancenido, Austin",
+                        "Chen, Liulin",
+                        "Amudzi, Bright",
+                        "Hao, Fei",
+                        "Li, Joyce",
+                        ""
+                ]
+        },
+        "May, Matthew": {
+                "prefrences": [
+                        "Araujo, Victor",
+                        "Mancenido, Austin",
+                        "Nicodemo, Carri",
+                        "Perfetti, Jacqueline",
+                        "Webb, Alyssa",
+                        "Kalina, Stephanie",
+                        "Li, Joyce",
+                        "Hao, Fei"
+                ]
+        },
+        "McCarthy, Kelsey": {
+                "prefrences": [
+                        "Smith, Elizabeth",
+                        "Johnson, Elizabeth",
+                        "Araujo, Victor",
+                        "Li, Joyce",
+                        "Brecht, Eric",
+                        "Ryan, Maura",
+                        "Webb, Alyssa",
+                        "Perfetti, Jacqueline"
+                ]
+        },
+        "Morelli, Lia": {
+                "prefrences": [
+                        "Perfetti, Jacqueline",
+                        "Zehnder, Brendan",
+                        "Endrizzi, Kristen",
+                        "Li, Zhuoxi",
+                        "Boulanger, Jason"
+                ]
+        },
+        "O'Boyle, Ciaran": {
+                "prefrences": [
+                        "Chen, Liulin"
+                ]
+        },
+        "O'Brien, Diana": {
+                "prefrences": [
+                        "Webb, Alyssa",
+                        "Araujo, Victor",
+                        "Li, Joyce",
+                        "Brecht, Eric"
+                ]
+        },
+        "Osborne, Kyle": {
+                "prefrences": [
+                        "Zehnder, Brendan",
+                        "Aguirre, Claudio"
+                ]
+        },
+        "Pogson, Amanda": {
+                "prefrences": [
+                        "Jang, Kevin",
+                        "Ryan, Maura",
+                        "Quinn, Bryant",
+                        "Li, Zhuoxi",
+                        "Aguirre, Claudio"
+                ]
+        },
+        "Raguimov, Roufat": {
+                "prefrences": [
+                        "Quinn, Bryant",
+                        "Jang, Kevin",
+                        "Ryan, Maura",
+                        "Aguirre, Claudio",
+                        "Li, Zhuoxi",
+                        "Chen, Liulin"
+                ]
+        },
+        "So, Jonathan": {
+                "prefrences": [
+                        "Ryan, Maura",
+                        "Jang, Kevin",
+                        "Quinn, Bryant",
+                        "Aguirre, Claudio",
+                        "Li, Zhuoxi"
+                ]
+        },
+        "Takvorian, Bryan": {
+                "prefrences": [
+                        "Webb, Alyssa",
+                        "Ryan, Maura",
+                        "Johnson, Elizabeth",
+                        "Mancenido, Austin",
+                        "Li, Joyce"
+                ]
+        },
+        "Tin, terrie": {
+                "prefrences": [
+                        "Smith, Elizabeth",
+                        "Quinn, Bryant",
+                        "Nicodemo, Carri"
+                ]
+        },
+        "Vuong, Patricia Deo-Campo": {
+                "prefrences": [
+                        "Amudzi, Bright",
+                        "Jiang, Wei"
+                ]
+        },
+        "Xiong, CiCi": {
+                "prefrences": [
+                        "Purvis, William"
+                ]
+        }
 }

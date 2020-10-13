@@ -1,0 +1,5053 @@
+
+> nrmp@1.0.0 start /Users/mkipust/GoogleDrive/PersonalProjects/nrmp
+> ts-node src/mw.ts
+
+----START----
+Managers:
+Ahn, Justin : null
+Albright, Kristen : null
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : null
+Gada, Jigar : null
+Gault, Tim : null
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : null
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : null
+Chen, Liulin : null
+Endrizzi, Kristen : null
+Hao, Fei : null
+Jang, Kevin : null
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : null
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : null
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : null
+Zhong, Min : null
+----END----
+matching Ahn, Justin and Brecht, Eric
+Brecht, Eric does not have a partener already. Matching with Ahn, Justin
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : null
+Gada, Jigar : null
+Gault, Tim : null
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : null
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : null
+Hao, Fei : null
+Jang, Kevin : null
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : null
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : null
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : null
+Zhong, Min : null
+----END----
+matching Almagro, Jonathan and Endrizzi, Kristen
+Endrizzi, Kristen does not have a partener already. Matching with Almagro, Jonathan
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : null
+Gada, Jigar : null
+Gault, Tim : null
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : null
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : null
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : null
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : null
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : null
+Zhong, Min : null
+----END----
+matching Barrett, Brendan and Zehnder, Brendan
+Zehnder, Brendan does not have a partener already. Matching with Barrett, Brendan
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : null
+Gada, Jigar : null
+Gault, Tim : null
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : null
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : null
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : null
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : null
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching Curley, Patrick and Lam, Keith
+Lam, Keith does not have a partener already. Matching with Curley, Patrick
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : null
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : null
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : null
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : null
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching Gault, Tim and Perfetti, Jacqueline
+Perfetti, Jacqueline does not have a partener already. Matching with Gault, Tim
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : null
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : null
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching Helinek, Erica and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Helinek, Erica. Not doing anything
+matching Helinek, Erica and Jang, Kevin
+Jang, Kevin does not have a partener already. Matching with Helinek, Erica
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : null
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching Hu, Guang-Yu and Aguirre, Claudio
+Aguirre, Claudio does not have a partener already. Matching with Hu, Guang-Yu
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Aguirre, Claudio
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Hu, Guang-Yu
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching Kelly, Scott and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Almagro, Jonathan
+Endrizzi, Kristen prefers Almagro, Jonathan over Kelly, Scott. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Aguirre, Claudio
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Hu, Guang-Yu
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : null
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching Krakoff, Michael and Li, Zhuoxi
+Li, Zhuoxi does not have a partener already. Matching with Krakoff, Michael
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Aguirre, Claudio
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : null
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Hu, Guang-Yu
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching Malhotra, Atul and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Hu, Guang-Yu
+Aguirre, Claudio prefers Malhotra, Atul over Hu, Guang-Yu. Matching with Malhotra, Atul
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : null
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching McCarthy, Kelsey and Smith, Elizabeth
+Smith, Elizabeth does not have a partener already. Matching with McCarthy, Kelsey
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : null
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : null
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching O'Boyle, Ciaran and Chen, Liulin
+Chen, Liulin does not have a partener already. Matching with O'Boyle, Ciaran
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : Zehnder, Brendan
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : null
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : null
+Zehnder, Brendan : Barrett, Brendan
+Zhong, Min : null
+----END----
+matching Osborne, Kyle and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Barrett, Brendan
+Zehnder, Brendan prefers Osborne, Kyle over Barrett, Brendan. Matching with Osborne, Kyle
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : null
+Ryan, Maura : null
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : null
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : null
+----END----
+matching Raguimov, Roufat and Quinn, Bryant
+Quinn, Bryant does not have a partener already. Matching with Raguimov, Roufat
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Quinn, Bryant
+So, Jonathan : null
+Takvorian, Bryan : null
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Raguimov, Roufat
+Ryan, Maura : null
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : null
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : null
+----END----
+matching Takvorian, Bryan and Webb, Alyssa
+Webb, Alyssa does not have a partener already. Matching with Takvorian, Bryan
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Quinn, Bryant
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : null
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Raguimov, Roufat
+Ryan, Maura : null
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : null
+----END----
+matching Vuong, Patricia Deo-Campo and Amudzi, Bright
+Amudzi, Bright does not have a partener already. Matching with Vuong, Patricia Deo-Campo
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : null
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Quinn, Bryant
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Raguimov, Roufat
+Ryan, Maura : null
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : null
+----END----
+matching Hu, Guang-Yu and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Malhotra, Atul
+Aguirre, Claudio prefers Malhotra, Atul over Hu, Guang-Yu. Not doing anything
+matching Hu, Guang-Yu and Li, Zhuoxi
+Li, Zhuoxi is already partenered with Krakoff, Michael
+Li, Zhuoxi prefers Krakoff, Michael over Hu, Guang-Yu. Not doing anything
+matching Hu, Guang-Yu and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Almagro, Jonathan
+Endrizzi, Kristen prefers Almagro, Jonathan over Hu, Guang-Yu. Not doing anything
+matching Hu, Guang-Yu and Ryan, Maura
+Ryan, Maura does not have a partener already. Matching with Hu, Guang-Yu
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : null
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Quinn, Bryant
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : null
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Raguimov, Roufat
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : null
+----END----
+matching Albright, Kristen and Johnson, Elizabeth
+Johnson, Elizabeth does not have a partener already. Matching with Albright, Kristen
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Quinn, Bryant
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : null
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Raguimov, Roufat
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : null
+----END----
+matching Chen, James and Li, Joyce
+Li, Joyce does not have a partener already. Matching with Chen, James
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Quinn, Bryant
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Raguimov, Roufat
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : null
+----END----
+matching Grabowski, Jan and Quinn, Bryant
+Quinn, Bryant is already partenered with Raguimov, Roufat
+Quinn, Bryant prefers Grabowski, Jan over Raguimov, Roufat. Matching with Grabowski, Jan
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : null
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : null
+----END----
+matching Hunter, Rachel and Zhong, Min
+Zhong, Min does not have a partener already. Matching with Hunter, Rachel
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : null
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : null
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Lindberg, Charles and Kalina, Stephanie
+Kalina, Stephanie does not have a partener already. Matching with Lindberg, Charles
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : Endrizzi, Kristen
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : null
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Almagro, Jonathan
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Morelli, Lia and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Morelli, Lia. Not doing anything
+matching Morelli, Lia and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Morelli, Lia. Not doing anything
+matching Morelli, Lia and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Almagro, Jonathan
+Endrizzi, Kristen prefers Morelli, Lia over Almagro, Jonathan. Matching with Morelli, Lia
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : Jang, Kevin
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Helinek, Erica
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Pogson, Amanda and Jang, Kevin
+Jang, Kevin is already partenered with Helinek, Erica
+Jang, Kevin prefers Pogson, Amanda over Helinek, Erica. Matching with Pogson, Amanda
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Smith, Elizabeth
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Jang, Kevin
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : null
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Pogson, Amanda
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : McCarthy, Kelsey
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Tin, terrie and Smith, Elizabeth
+Smith, Elizabeth is already partenered with McCarthy, Kelsey
+Smith, Elizabeth prefers Tin, terrie over McCarthy, Kelsey. Matching with Tin, terrie
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Jang, Kevin
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Pogson, Amanda
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Barrett, Brendan and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Barrett, Brendan. Not doing anything
+matching Barrett, Brendan and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Barrett, Brendan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Jang, Kevin
+Raguimov, Roufat : null
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Pogson, Amanda
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Raguimov, Roufat and Quinn, Bryant
+Quinn, Bryant is already partenered with Grabowski, Jan
+Quinn, Bryant prefers Grabowski, Jan over Raguimov, Roufat. Not doing anything
+matching Raguimov, Roufat and Jang, Kevin
+Jang, Kevin is already partenered with Pogson, Amanda
+Jang, Kevin prefers Raguimov, Roufat over Pogson, Amanda. Matching with Raguimov, Roufat
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Helinek, Erica and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Helinek, Erica. Not doing anything
+matching Helinek, Erica and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Helinek, Erica. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : null
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching McCarthy, Kelsey and Smith, Elizabeth
+Smith, Elizabeth is already partenered with Tin, terrie
+Smith, Elizabeth prefers Tin, terrie over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Araujo, Victor
+Araujo, Victor does not have a partener already. Matching with McCarthy, Kelsey
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : null
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Araujo, Victor
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : McCarthy, Kelsey
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : null
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Avitabile, John and Nicodemo, Carri
+Nicodemo, Carri does not have a partener already. Matching with Avitabile, John
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Araujo, Victor
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : McCarthy, Kelsey
+Boulanger, Jason : null
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Hendricks, Caitlin and Kalina, Stephanie
+Kalina, Stephanie is already partenered with Lindberg, Charles
+Kalina, Stephanie prefers Lindberg, Charles over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Boulanger, Jason
+Boulanger, Jason does not have a partener already. Matching with Hendricks, Caitlin
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : null
+McCarthy, Kelsey : Araujo, Victor
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : McCarthy, Kelsey
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching May, Matthew and Araujo, Victor
+Araujo, Victor is already partenered with McCarthy, Kelsey
+Araujo, Victor prefers May, Matthew over McCarthy, Kelsey. Matching with May, Matthew
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Quinn, Bryant
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : null
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : Grabowski, Jan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching So, Jonathan and Ryan, Maura
+Ryan, Maura is already partenered with Hu, Guang-Yu
+Ryan, Maura prefers Hu, Guang-Yu over So, Jonathan. Not doing anything
+matching So, Jonathan and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over So, Jonathan. Not doing anything
+matching So, Jonathan and Quinn, Bryant
+Quinn, Bryant is already partenered with Grabowski, Jan
+Quinn, Bryant prefers So, Jonathan over Grabowski, Jan. Matching with So, Jonathan
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Barrett, Brendan and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Barrett, Brendan. Not doing anything
+matching Barrett, Brendan and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Barrett, Brendan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Almagro, Jonathan and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over Almagro, Jonathan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Helinek, Erica and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Helinek, Erica. Not doing anything
+matching Helinek, Erica and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Helinek, Erica. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : Li, Zhuoxi
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : null
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Krakoff, Michael
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Pogson, Amanda and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Pogson, Amanda. Not doing anything
+matching Pogson, Amanda and Ryan, Maura
+Ryan, Maura is already partenered with Hu, Guang-Yu
+Ryan, Maura prefers Hu, Guang-Yu over Pogson, Amanda. Not doing anything
+matching Pogson, Amanda and Quinn, Bryant
+Quinn, Bryant is already partenered with So, Jonathan
+Quinn, Bryant prefers So, Jonathan over Pogson, Amanda. Not doing anything
+matching Pogson, Amanda and Li, Zhuoxi
+Li, Zhuoxi is already partenered with Krakoff, Michael
+Li, Zhuoxi prefers Pogson, Amanda over Krakoff, Michael. Matching with Pogson, Amanda
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : null
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Aguirre, Claudio
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Malhotra, Atul
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Grabowski, Jan and Quinn, Bryant
+Quinn, Bryant is already partenered with So, Jonathan
+Quinn, Bryant prefers So, Jonathan over Grabowski, Jan. Not doing anything
+matching Grabowski, Jan and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Grabowski, Jan. Not doing anything
+matching Grabowski, Jan and Ryan, Maura
+Ryan, Maura is already partenered with Hu, Guang-Yu
+Ryan, Maura prefers Hu, Guang-Yu over Grabowski, Jan. Not doing anything
+matching Grabowski, Jan and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Malhotra, Atul
+Aguirre, Claudio prefers Grabowski, Jan over Malhotra, Atul. Matching with Grabowski, Jan
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : null
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Malhotra, Atul and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Grabowski, Jan
+Aguirre, Claudio prefers Grabowski, Jan over Malhotra, Atul. Not doing anything
+matching Malhotra, Atul and Quinn, Bryant
+Quinn, Bryant is already partenered with So, Jonathan
+Quinn, Bryant prefers So, Jonathan over Malhotra, Atul. Not doing anything
+matching Malhotra, Atul and Mancenido, Austin
+Mancenido, Austin does not have a partener already. Matching with Malhotra, Atul
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : null
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : Boulanger, Jason
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Hendricks, Caitlin
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Gada, Jigar and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Gada, Jigar. Not doing anything
+matching Gada, Jigar and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Gada, Jigar. Not doing anything
+matching Gada, Jigar and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Gada, Jigar. Not doing anything
+matching Gada, Jigar and Boulanger, Jason
+Boulanger, Jason is already partenered with Hendricks, Caitlin
+Boulanger, Jason prefers Gada, Jigar over Hendricks, Caitlin. Matching with Gada, Jigar
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Li, Joyce
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : null
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : Chen, James
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching O'Brien, Diana and Webb, Alyssa
+Webb, Alyssa is already partenered with Takvorian, Bryan
+Webb, Alyssa prefers Takvorian, Bryan over O'Brien, Diana. Not doing anything
+matching O'Brien, Diana and Araujo, Victor
+Araujo, Victor is already partenered with May, Matthew
+Araujo, Victor prefers May, Matthew over O'Brien, Diana. Not doing anything
+matching O'Brien, Diana and Li, Joyce
+Li, Joyce is already partenered with Chen, James
+Li, Joyce prefers O'Brien, Diana over Chen, James. Matching with O'Brien, Diana
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Barrett, Brendan and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Barrett, Brendan. Not doing anything
+matching Barrett, Brendan and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Barrett, Brendan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Almagro, Jonathan and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over Almagro, Jonathan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Helinek, Erica and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Helinek, Erica. Not doing anything
+matching Helinek, Erica and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Helinek, Erica. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching McCarthy, Kelsey and Smith, Elizabeth
+Smith, Elizabeth is already partenered with Tin, terrie
+Smith, Elizabeth prefers Tin, terrie over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Araujo, Victor
+Araujo, Victor is already partenered with May, Matthew
+Araujo, Victor prefers May, Matthew over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Li, Joyce
+Li, Joyce is already partenered with O'Brien, Diana
+Li, Joyce prefers O'Brien, Diana over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Brecht, Eric
+Brecht, Eric is already partenered with Ahn, Justin
+Brecht, Eric prefers Ahn, Justin over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Ryan, Maura
+Ryan, Maura is already partenered with Hu, Guang-Yu
+Ryan, Maura prefers Hu, Guang-Yu over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Webb, Alyssa
+Webb, Alyssa is already partenered with Takvorian, Bryan
+Webb, Alyssa prefers Takvorian, Bryan over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over McCarthy, Kelsey. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Krakoff, Michael and Li, Zhuoxi
+Li, Zhuoxi is already partenered with Pogson, Amanda
+Li, Zhuoxi prefers Pogson, Amanda over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Krakoff, Michael. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Hendricks, Caitlin and Kalina, Stephanie
+Kalina, Stephanie is already partenered with Lindberg, Charles
+Kalina, Stephanie prefers Lindberg, Charles over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Boulanger, Jason
+Boulanger, Jason is already partenered with Gada, Jigar
+Boulanger, Jason prefers Gada, Jigar over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Grabowski, Jan
+Aguirre, Claudio prefers Grabowski, Jan over Hendricks, Caitlin. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : null
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Mancenido, Austin
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Malhotra, Atul
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Chen, James and Li, Joyce
+Li, Joyce is already partenered with O'Brien, Diana
+Li, Joyce prefers O'Brien, Diana over Chen, James. Not doing anything
+matching Chen, James and Mancenido, Austin
+Mancenido, Austin is already partenered with Malhotra, Atul
+Mancenido, Austin prefers Chen, James over Malhotra, Atul. Matching with Chen, James
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Kelly, Scott and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Kelly, Scott. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : null
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : null
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Xiong, CiCi and Purvis, William
+Purvis, William does not have a partener already. Matching with Xiong, CiCi
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Almagro, Jonathan and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over Almagro, Jonathan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Helinek, Erica and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Helinek, Erica. Not doing anything
+matching Helinek, Erica and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Helinek, Erica. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching McCarthy, Kelsey and Smith, Elizabeth
+Smith, Elizabeth is already partenered with Tin, terrie
+Smith, Elizabeth prefers Tin, terrie over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Araujo, Victor
+Araujo, Victor is already partenered with May, Matthew
+Araujo, Victor prefers May, Matthew over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Li, Joyce
+Li, Joyce is already partenered with O'Brien, Diana
+Li, Joyce prefers O'Brien, Diana over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Brecht, Eric
+Brecht, Eric is already partenered with Ahn, Justin
+Brecht, Eric prefers Ahn, Justin over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Ryan, Maura
+Ryan, Maura is already partenered with Hu, Guang-Yu
+Ryan, Maura prefers Hu, Guang-Yu over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Webb, Alyssa
+Webb, Alyssa is already partenered with Takvorian, Bryan
+Webb, Alyssa prefers Takvorian, Bryan over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over McCarthy, Kelsey. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Krakoff, Michael and Li, Zhuoxi
+Li, Zhuoxi is already partenered with Pogson, Amanda
+Li, Zhuoxi prefers Pogson, Amanda over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Krakoff, Michael. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Hendricks, Caitlin and Kalina, Stephanie
+Kalina, Stephanie is already partenered with Lindberg, Charles
+Kalina, Stephanie prefers Lindberg, Charles over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Boulanger, Jason
+Boulanger, Jason is already partenered with Gada, Jigar
+Boulanger, Jason prefers Gada, Jigar over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Grabowski, Jan
+Aguirre, Claudio prefers Grabowski, Jan over Hendricks, Caitlin. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : null
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Amudzi, Bright
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Vuong, Patricia Deo-Campo
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Malhotra, Atul and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Grabowski, Jan
+Aguirre, Claudio prefers Grabowski, Jan over Malhotra, Atul. Not doing anything
+matching Malhotra, Atul and Quinn, Bryant
+Quinn, Bryant is already partenered with So, Jonathan
+Quinn, Bryant prefers So, Jonathan over Malhotra, Atul. Not doing anything
+matching Malhotra, Atul and Mancenido, Austin
+Mancenido, Austin is already partenered with Chen, James
+Mancenido, Austin prefers Chen, James over Malhotra, Atul. Not doing anything
+matching Malhotra, Atul and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Malhotra, Atul. Not doing anything
+matching Malhotra, Atul and Amudzi, Bright
+Amudzi, Bright is already partenered with Vuong, Patricia Deo-Campo
+Amudzi, Bright prefers Malhotra, Atul over Vuong, Patricia Deo-Campo. Matching with Malhotra, Atul
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Kelly, Scott and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Kelly, Scott. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Barrett, Brendan and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Barrett, Brendan. Not doing anything
+matching Barrett, Brendan and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Barrett, Brendan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Almagro, Jonathan and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over Almagro, Jonathan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Helinek, Erica and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Helinek, Erica. Not doing anything
+matching Helinek, Erica and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Helinek, Erica. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching McCarthy, Kelsey and Smith, Elizabeth
+Smith, Elizabeth is already partenered with Tin, terrie
+Smith, Elizabeth prefers Tin, terrie over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Araujo, Victor
+Araujo, Victor is already partenered with May, Matthew
+Araujo, Victor prefers May, Matthew over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Li, Joyce
+Li, Joyce is already partenered with O'Brien, Diana
+Li, Joyce prefers O'Brien, Diana over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Brecht, Eric
+Brecht, Eric is already partenered with Ahn, Justin
+Brecht, Eric prefers Ahn, Justin over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Ryan, Maura
+Ryan, Maura is already partenered with Hu, Guang-Yu
+Ryan, Maura prefers Hu, Guang-Yu over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Webb, Alyssa
+Webb, Alyssa is already partenered with Takvorian, Bryan
+Webb, Alyssa prefers Takvorian, Bryan over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over McCarthy, Kelsey. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Krakoff, Michael and Li, Zhuoxi
+Li, Zhuoxi is already partenered with Pogson, Amanda
+Li, Zhuoxi prefers Pogson, Amanda over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Krakoff, Michael. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Hendricks, Caitlin and Kalina, Stephanie
+Kalina, Stephanie is already partenered with Lindberg, Charles
+Kalina, Stephanie prefers Lindberg, Charles over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Boulanger, Jason
+Boulanger, Jason is already partenered with Gada, Jigar
+Boulanger, Jason prefers Gada, Jigar over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Grabowski, Jan
+Aguirre, Claudio prefers Grabowski, Jan over Hendricks, Caitlin. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : null
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : null
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Vuong, Patricia Deo-Campo and Amudzi, Bright
+Amudzi, Bright is already partenered with Malhotra, Atul
+Amudzi, Bright prefers Malhotra, Atul over Vuong, Patricia Deo-Campo. Not doing anything
+matching Vuong, Patricia Deo-Campo and Jiang, Wei
+Jiang, Wei does not have a partener already. Matching with Vuong, Patricia Deo-Campo
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Jiang, Wei
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : Vuong, Patricia Deo-Campo
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Kelly, Scott and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Kelly, Scott. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Jiang, Wei
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : Vuong, Patricia Deo-Campo
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Barrett, Brendan and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Barrett, Brendan. Not doing anything
+matching Barrett, Brendan and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Barrett, Brendan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Jiang, Wei
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : Vuong, Patricia Deo-Campo
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Almagro, Jonathan and Endrizzi, Kristen
+Endrizzi, Kristen is already partenered with Morelli, Lia
+Endrizzi, Kristen prefers Morelli, Lia over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Almagro, Jonathan. Not doing anything
+matching Almagro, Jonathan and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over Almagro, Jonathan. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Jiang, Wei
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : Vuong, Patricia Deo-Campo
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Helinek, Erica and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over Helinek, Erica. Not doing anything
+matching Helinek, Erica and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Helinek, Erica. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Jiang, Wei
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : Vuong, Patricia Deo-Campo
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching McCarthy, Kelsey and Smith, Elizabeth
+Smith, Elizabeth is already partenered with Tin, terrie
+Smith, Elizabeth prefers Tin, terrie over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Johnson, Elizabeth
+Johnson, Elizabeth is already partenered with Albright, Kristen
+Johnson, Elizabeth prefers Albright, Kristen over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Araujo, Victor
+Araujo, Victor is already partenered with May, Matthew
+Araujo, Victor prefers May, Matthew over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Li, Joyce
+Li, Joyce is already partenered with O'Brien, Diana
+Li, Joyce prefers O'Brien, Diana over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Brecht, Eric
+Brecht, Eric is already partenered with Ahn, Justin
+Brecht, Eric prefers Ahn, Justin over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Ryan, Maura
+Ryan, Maura is already partenered with Hu, Guang-Yu
+Ryan, Maura prefers Hu, Guang-Yu over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Webb, Alyssa
+Webb, Alyssa is already partenered with Takvorian, Bryan
+Webb, Alyssa prefers Takvorian, Bryan over McCarthy, Kelsey. Not doing anything
+matching McCarthy, Kelsey and Perfetti, Jacqueline
+Perfetti, Jacqueline is already partenered with Gault, Tim
+Perfetti, Jacqueline prefers Gault, Tim over McCarthy, Kelsey. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Jiang, Wei
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : Vuong, Patricia Deo-Campo
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Krakoff, Michael and Li, Zhuoxi
+Li, Zhuoxi is already partenered with Pogson, Amanda
+Li, Zhuoxi prefers Pogson, Amanda over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Chen, Liulin
+Chen, Liulin is already partenered with O'Boyle, Ciaran
+Chen, Liulin prefers O'Boyle, Ciaran over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Zhong, Min
+Zhong, Min is already partenered with Hunter, Rachel
+Zhong, Min prefers Hunter, Rachel over Krakoff, Michael. Not doing anything
+matching Krakoff, Michael and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Krakoff, Michael. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Jiang, Wei
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : Vuong, Patricia Deo-Campo
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----
+matching Hendricks, Caitlin and Kalina, Stephanie
+Kalina, Stephanie is already partenered with Lindberg, Charles
+Kalina, Stephanie prefers Lindberg, Charles over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Boulanger, Jason
+Boulanger, Jason is already partenered with Gada, Jigar
+Boulanger, Jason prefers Gada, Jigar over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Jang, Kevin
+Jang, Kevin is already partenered with Raguimov, Roufat
+Jang, Kevin prefers Raguimov, Roufat over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Zehnder, Brendan
+Zehnder, Brendan is already partenered with Osborne, Kyle
+Zehnder, Brendan prefers Osborne, Kyle over Hendricks, Caitlin. Not doing anything
+matching Hendricks, Caitlin and Aguirre, Claudio
+Aguirre, Claudio is already partenered with Grabowski, Jan
+Aguirre, Claudio prefers Grabowski, Jan over Hendricks, Caitlin. Not doing anything
+----START----
+Managers:
+Ahn, Justin : Brecht, Eric
+Albright, Kristen : Johnson, Elizabeth
+Almagro, Jonathan : null
+Avitabile, John : Nicodemo, Carri
+Barrett, Brendan : null
+Chen, James : Mancenido, Austin
+Curley, Patrick : Lam, Keith
+Gada, Jigar : Boulanger, Jason
+Gault, Tim : Perfetti, Jacqueline
+Grabowski, Jan : Aguirre, Claudio
+Helinek, Erica : null
+Hendricks, Caitlin : null
+Hu, Guang-Yu : Ryan, Maura
+Hunter, Rachel : Zhong, Min
+Kelly, Scott : null
+Krakoff, Michael : null
+Lindberg, Charles : Kalina, Stephanie
+Malhotra, Atul : Amudzi, Bright
+May, Matthew : Araujo, Victor
+McCarthy, Kelsey : null
+Morelli, Lia : Endrizzi, Kristen
+O'Boyle, Ciaran : Chen, Liulin
+O'Brien, Diana : Li, Joyce
+Osborne, Kyle : Zehnder, Brendan
+Pogson, Amanda : Li, Zhuoxi
+Raguimov, Roufat : Jang, Kevin
+So, Jonathan : Quinn, Bryant
+Takvorian, Bryan : Webb, Alyssa
+Tin, terrie : Smith, Elizabeth
+Vuong, Patricia Deo-Campo : Jiang, Wei
+Xiong, CiCi : Purvis, William
+
+Applicants
+Aguirre, Claudio : Grabowski, Jan
+Amudzi, Bright : Malhotra, Atul
+Araujo, Victor : May, Matthew
+Boulanger, Jason : Gada, Jigar
+Brecht, Eric : Ahn, Justin
+Chen, Liulin : O'Boyle, Ciaran
+Endrizzi, Kristen : Morelli, Lia
+Hao, Fei : null
+Jang, Kevin : Raguimov, Roufat
+Jiang, Wei : Vuong, Patricia Deo-Campo
+Johnson, Elizabeth : Albright, Kristen
+Kalina, Stephanie : Lindberg, Charles
+Lam, Keith : Curley, Patrick
+Leedy, Jeffrey : null
+Li, Joyce : O'Brien, Diana
+Li, Zhuoxi : Pogson, Amanda
+Lu, Karen : null
+Mancenido, Austin : Chen, James
+Nicodemo, Carri : Avitabile, John
+Perfetti, Jacqueline : Gault, Tim
+Purvis, William : Xiong, CiCi
+Quinn, Bryant : So, Jonathan
+Ryan, Maura : Hu, Guang-Yu
+Smith, Elizabeth : Tin, terrie
+Webb, Alyssa : Takvorian, Bryan
+Zehnder, Brendan : Osborne, Kyle
+Zhong, Min : Hunter, Rachel
+----END----

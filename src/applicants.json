@@ -1,23 +1,263 @@
 {
-    "Applicant 1": {
-        "prefrences": ["Manager 4", "Manager 3"]
-    },
-    "Applicant 2": {
-        "prefrences": ["Manager 3", "Manager 2"]
-    },
-    "Applicant 3": {
-        "prefrences": ["Manager 2", "Manager 1"]
-    },
-    "Applicant 4": {
-        "prefrences": ["Manager 1", "Manager 4"]
-    },
-    "Applicant 5": {
-        "prefrences": ["Manager 1", "Manager 2", "Manager 3", "Manager 4"]
-    },
-    "Applicant 6": {
-        "prefrences": ["Manager 2", "Manager 3"]
-    },
-    "Applicant 7": {
-        "prefrences": ["Manager 2"]
-    }
+   "Aguirre, Claudio": {
+      "prefrences": [
+         "Malhotra, Atul",
+         "So, Jonathan",
+         "Pogson, Amanda",
+         "Hendricks, Caitlin",
+         "Raguimov, Roufat",
+         "Albright, Kristen",
+         "Hu, Guang-Yu",
+         "Osborne, Kyle"
+      ]
+   },
+   "Amudzi, Bright": {
+      "prefrences": [
+         "Kelly, Scott",
+         "Malhotra, Atul",
+         "Gault, Tim",
+         "Vuong, Patricia Deo-Campo",
+         "Grabowski, Jan",
+         "Hu, Guang-Yu"
+      ]
+   },
+   "Araujo, Victor": {
+      "prefrences": [
+         "Tin, Terrie",
+         "Avitabile, John",
+         "Ahn, Justin",
+         "Krakoff, Michael",
+         "May, Matthew",
+         "McCarthy, Kelsey",
+         "O'Brien, Diana"
+      ]
+   },
+   "Boulanger, Jason": {
+      "prefrences": [
+         "Morelli, Lia",
+         "Gada, Jigar",
+         "Gault, Tim",
+         "Krakoff, Michael",
+         "Hendricks, Caitlin"
+      ]
+   },
+   "Brecht, Eric": {
+      "prefrences": [
+         "Matt Hayden",
+         "O'Brien, Diana",
+         "Lindberg, Charles",
+         "Ahn, Justin",
+         "Tin, Terrie",
+         "McCarthy, Kelsey"
+      ]
+   },
+   "Chen, Liulin": {
+      "prefrences": [
+         "Malhotra, Atul",
+         "Krakoff, Michael",
+         "Curley, Patrick",
+         "Chen, James",
+         "Albright, Kristen"
+      ]
+   },
+   "Endrizzi, Kristen": {
+      "prefrences": [
+         "Morelli, Lia",
+         "Gada, Jigar",
+         "Almagro, Jonathan",
+         "Barrett, Brendan",
+         "Kelly, Scott",
+         "Albright, Kristen",
+         "Hu, Guang-Yu"
+      ]
+   },
+   "Hao, Fei": {
+      "prefrences": [
+         "Kelly, Scott",
+         "Chen, James",
+         "May, Matthew"
+      ]
+   },
+   "Jang, Kevin": {
+      "prefrences": [
+         "Tin, Terrie",
+         "Hunter, Rachel",
+         "Hendricks, Caitlin",
+         "So, Jonathan",
+         "Pogson, Amanda",
+         "Krakoff, Michael",
+         "Gault, Tim",
+         "Helinek, Erica"
+      ]
+   },
+   "Jiang, Wei": {
+      "prefrences": [
+         "Gault, Tim",
+         "Hunter, Rachel",
+         "Vuong, Patricia Deo-Campo",
+         "Hendricks, Caitlin",
+         "Barrett, Brendan",
+         "Pogson, Amanda",
+         "So, Jonathan"
+      ]
+   },
+   "Johnson, Elizabeth": {
+      "prefrences": [
+         "May, Matthew",
+         "Ahn, Justin",
+         "Vuong, Patricia Deo-Campo",
+         "Albright, Kristen",
+         "Almagro, Jonathan",
+         "Takvorian, Bryan",
+         "McCarthy, Kelsey"
+      ]
+   },
+   "Kalina, Stephanie": {
+      "prefrences": [
+         "Lindberg, Charles",
+         "Chen, James",
+         "Hendricks, Caitlin",
+         "May, Matthew"
+      ]
+   },
+   "Lam, Keith": {
+      "prefrences": [
+         "Tin, Terrie",
+         "Curley, Patrick",
+         "Lindberg, Charles"
+      ]
+   },
+   "Leedy, Jeffrey": {
+      "prefrences": [
+         "Krakoff, Michael"
+      ]
+   },
+   "Li, Joyce": {
+      "prefrences": [
+         "O'Brien, Diana",
+         "Lindberg, Charles",
+         "McCarthy, Kelsey",
+         "Malhotra, Atul",
+         "Chen, James",
+         "Takvorian, Bryan",
+         "May, Matthew"
+      ]
+   },
+   "Li, Zhuoxi": {
+      "prefrences": [
+         "Hendricks, Caitlin",
+         "Hunter, Rachel",
+         "Krakoff, Michael",
+         "Morelli, Lia",
+         "Raguimov, Roufat",
+         "So, Jonathan",
+         "Albright, Kristen",
+         "Hu, Guang-Yu"
+      ]
+   },
+   "Lu, Karen": {
+      "prefrences": [
+         "Takvorian, Bryan",
+         "Chen, James",
+         "Curley, Patrick",
+         "So, Jonathan"
+      ]
+   },
+   "Mancenido, Austin": {
+      "prefrences": [
+         "Avitabile, John",
+         "Helinek, Erica",
+         "Chen, James",
+         "Malhotra, Atul",
+         "May, Matthew",
+         "Ahn, Justin",
+         "Krakoff, Michael",
+         ""
+      ]
+   },
+   "Nicodemo, Carri": {
+      "prefrences": [
+         "Avitabile, John",
+         "Lindberg, Charles",
+         "Tin, terrie"
+      ]
+   },
+   "Perfetti, Jacqueline": {
+      "prefrences": [
+         "Gada, Jigar",
+         "Morelli, Lia",
+         "Helinek, Erica",
+         "McCarthy, Kelsey"
+      ]
+   },
+   "Purvis, William": {
+      "prefrences": [
+         "Xiong, CiCi"
+      ]
+   },
+   "Quinn, Bryant": {
+      "prefrences": [
+         "Lindberg, Charles",
+         "Tin, Terrie",
+         "Grabowski, Jan",
+         "Raguimov, Roufat",
+         "Ahn, Justin",
+         "Malhotra, Atul",
+         "O'Brien, Diana",
+         "Curley, Patrick"
+      ]
+   },
+   "Ryan, Maura": {
+      "prefrences": [
+         "Takvorian, Bryan",
+         "Ahn, Justin",
+         "McCarthy, Kelsey",
+         "Pogson, Amanda",
+         "So, Jonathan",
+         "Grabowski, Jan",
+         "Raguimov, Roufat",
+         "Helinek, Erica"
+      ]
+   },
+   "Smith, Elizabeth": {
+      "prefrences": [
+         "McCarthy, Kelsey",
+         "Tin, Terrie"
+      ]
+   },
+   "Webb, Alyssa": {
+      "prefrences": [
+         "Takvorian, Bryan",
+         "Ahn, Justin",
+         "O'Brien, Diana",
+         "Chen, James",
+         "McCarthy, Kelsey",
+         "Curley, Patrick",
+         "Albright, Kristen",
+         "Hu, Guang-Yu"
+      ]
+   },
+   "Zehnder, Brendan": {
+      "prefrences": [
+         "Osborne, Kyle",
+         "Avitabile, John",
+         "Hendricks, Caitlin",
+         "Chen, James",
+         "Morelli, Lia",
+         "Barrett, Brendan",
+         "Tin, Terrie",
+         "Gada, Jigar"
+      ]
+   },
+   "Zhong, Min": {
+      "prefrences": [
+         "Lindberg, Charles",
+         "May, Matthew",
+         "Hunter, Rachel",
+         "Hendricks, Caitlin",
+         "Gada, Jigar",
+         "Krakoff, Michael",
+         "Barrett, Brendan"
+      ]
+   }
 }

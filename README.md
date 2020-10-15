@@ -2,7 +2,7 @@
 https://en.wikipedia.org/wiki/Gale%E2%80%93Shapley_algorithm
 
 ## To install dependencies:
-Install (node.js)[https://nodejs.org/en/]
+Install [node.js](https://nodejs.org/en/)
 run `npm install`
 run `npm install -g ts-node`
 

@@ -15,7 +15,13 @@ class Manager {
     }
 
     init(){
-        this.prefrences = this.prefStr.map((applicantStr)=>allApplicants.find((a)=>a.name === applicantStr)!);
+        this.prefStr.forEach((pref)=>{
+            let prefObj: (Applicant | undefined) = allApplicants.find((a)=>a.name.toLowerCase() === pref.toLowerCase());
+            if(!prefObj){
+                throw Error(`${pref} not found in Applicants`);
+            }
+            this.prefrences.push(prefObj);
+        })
     }
 }
 
@@ -31,7 +37,13 @@ class Applicant {
     }
 
     init(){
-        this.prefrences = this.prefStr.map((managerStr)=>allManagers.find((m)=>m.name === managerStr)!);
+        this.prefStr.forEach((pref)=>{
+            let prefObj: (Manager | undefined) = allManagers.find((a)=>a.name.toLowerCase() === pref.toLowerCase());
+            if(!prefObj){
+                throw Error(`${pref} not found in Managers`);
+            }
+            this.prefrences.push(prefObj);
+        })
     }
 }
 
@@ -53,6 +65,12 @@ allApplicants.forEach((applicant)=>applicant.init());
 
 //returns true if a prefers m1 over m2
 function prefrence(a:Applicant, m1:Manager, m2:Manager){
+    if(a.prefrences.indexOf(m1) === -1){
+        return false;
+    }
+    if(a.prefrences.indexOf(m2) === -1){
+        return true;
+    }
     return a.prefrences.indexOf(m1) < a.prefrences.indexOf(m2);
 }
 
@@ -78,12 +96,17 @@ while(freeManagers.length > 0){
     manager.prefrences.some((prefrenceA)=>{
         console.log(`matching ${manager.name} and ${prefrenceA.name}`);
         if(prefrenceA.partner === null){
-            console.log(`${prefrenceA.name} does not have a partener already. Matching with ${manager.name}`)
-            manager.partner = prefrenceA;
-            prefrenceA.partner = manager;
-            removeByValue(freeManagers, manager);
-            madeChange = true;
-            return true;
+            console.log(`${prefrenceA.name} does not have a partener already`);
+            if(prefrenceA.prefrences.indexOf(manager)!=-1){
+                console.log(`${prefrenceA.name} is ok with ${manager.name}. Matching with ${manager.name}`)
+                manager.partner = prefrenceA;
+                prefrenceA.partner = manager;
+                removeByValue(freeManagers, manager);
+                madeChange = true;
+                return true;
+            }else{
+                console.log(`${prefrenceA.name} is not ok with ${manager.name}`);
+            }
         }else{
             let prefCurPartnerM: Manager = prefrenceA.partner;
             console.log(`${prefrenceA.name} is already partenered with ${prefCurPartnerM.name}`);
@@ -112,5 +135,5 @@ while(freeManagers.length > 0){
         madeChange = false;
     }
 }
-
+console.log("Final Result");
 print();

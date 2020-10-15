@@ -1,6 +1,6 @@
 {
    "Aguirre, Claudio": {
-      "prefrences": [
+      "preferences": [
          "Malhotra, Atul",
          "So, Jonathan",
          "Pogson, Amanda",
@@ -12,7 +12,7 @@
       ]
    },
    "Amudzi, Bright": {
-      "prefrences": [
+      "preferences": [
          "Kelly, Scott",
          "Malhotra, Atul",
          "Gault, Tim",
@@ -22,7 +22,7 @@
       ]
    },
    "Araujo, Victor": {
-      "prefrences": [
+      "preferences": [
          "Tin, Terrie",
          "Avitabile, John",
          "Ahn, Justin",
@@ -33,7 +33,7 @@
       ]
    },
    "Boulanger, Jason": {
-      "prefrences": [
+      "preferences": [
          "Morelli, Lia",
          "Gada, Jigar",
          "Gault, Tim",
@@ -42,7 +42,7 @@
       ]
    },
    "Brecht, Eric": {
-      "prefrences": [
+      "preferences": [
          "Matt Hayden",
          "O'Brien, Diana",
          "Lindberg, Charles",
@@ -52,7 +52,7 @@
       ]
    },
    "Chen, Liulin": {
-      "prefrences": [
+      "preferences": [
          "Malhotra, Atul",
          "Krakoff, Michael",
          "Curley, Patrick",
@@ -61,7 +61,7 @@
       ]
    },
    "Endrizzi, Kristen": {
-      "prefrences": [
+      "preferences": [
          "Morelli, Lia",
          "Gada, Jigar",
          "Almagro, Jonathan",
@@ -72,14 +72,14 @@
       ]
    },
    "Hao, Fei": {
-      "prefrences": [
+      "preferences": [
          "Kelly, Scott",
          "Chen, James",
          "May, Matthew"
       ]
    },
    "Jang, Kevin": {
-      "prefrences": [
+      "preferences": [
          "Tin, Terrie",
          "Hunter, Rachel",
          "Hendricks, Caitlin",
@@ -91,7 +91,7 @@
       ]
    },
    "Jiang, Wei": {
-      "prefrences": [
+      "preferences": [
          "Gault, Tim",
          "Hunter, Rachel",
          "Vuong, Patricia Deo-Campo",
@@ -102,7 +102,7 @@
       ]
    },
    "Johnson, Elizabeth": {
-      "prefrences": [
+      "preferences": [
          "May, Matthew",
          "Ahn, Justin",
          "Vuong, Patricia Deo-Campo",
@@ -113,7 +113,7 @@
       ]
    },
    "Kalina, Stephanie": {
-      "prefrences": [
+      "preferences": [
          "Lindberg, Charles",
          "Chen, James",
          "Hendricks, Caitlin",
@@ -121,19 +121,19 @@
       ]
    },
    "Lam, Keith": {
-      "prefrences": [
+      "preferences": [
          "Tin, Terrie",
          "Curley, Patrick",
          "Lindberg, Charles"
       ]
    },
    "Leedy, Jeffrey": {
-      "prefrences": [
+      "preferences": [
          "Krakoff, Michael"
       ]
    },
    "Li, Joyce": {
-      "prefrences": [
+      "preferences": [
          "O'Brien, Diana",
          "Lindberg, Charles",
          "McCarthy, Kelsey",
@@ -144,7 +144,7 @@
       ]
    },
    "Li, Zhuoxi": {
-      "prefrences": [
+      "preferences": [
          "Hendricks, Caitlin",
          "Hunter, Rachel",
          "Krakoff, Michael",
@@ -156,7 +156,7 @@
       ]
    },
    "Lu, Karen": {
-      "prefrences": [
+      "preferences": [
          "Takvorian, Bryan",
          "Chen, James",
          "Curley, Patrick",
@@ -164,7 +164,7 @@
       ]
    },
    "Mancenido, Austin": {
-      "prefrences": [
+      "preferences": [
          "Avitabile, John",
          "Helinek, Erica",
          "Chen, James",
@@ -176,14 +176,14 @@
       ]
    },
    "Nicodemo, Carri": {
-      "prefrences": [
+      "preferences": [
          "Avitabile, John",
          "Lindberg, Charles",
          "Tin, terrie"
       ]
    },
    "Perfetti, Jacqueline": {
-      "prefrences": [
+      "preferences": [
          "Gada, Jigar",
          "Morelli, Lia",
          "Helinek, Erica",
@@ -191,12 +191,12 @@
       ]
    },
    "Purvis, William": {
-      "prefrences": [
+      "preferences": [
          "Xiong, CiCi"
       ]
    },
    "Quinn, Bryant": {
-      "prefrences": [
+      "preferences": [
          "Lindberg, Charles",
          "Tin, Terrie",
          "Grabowski, Jan",
@@ -208,7 +208,7 @@
       ]
    },
    "Ryan, Maura": {
-      "prefrences": [
+      "preferences": [
          "Takvorian, Bryan",
          "Ahn, Justin",
          "McCarthy, Kelsey",
@@ -220,13 +220,13 @@
       ]
    },
    "Smith, Elizabeth": {
-      "prefrences": [
+      "preferences": [
          "McCarthy, Kelsey",
          "Tin, Terrie"
       ]
    },
    "Webb, Alyssa": {
-      "prefrences": [
+      "preferences": [
          "Takvorian, Bryan",
          "Ahn, Justin",
          "O'Brien, Diana",
@@ -238,7 +238,7 @@
       ]
    },
    "Zehnder, Brendan": {
-      "prefrences": [
+      "preferences": [
          "Osborne, Kyle",
          "Avitabile, John",
          "Hendricks, Caitlin",
@@ -250,7 +250,7 @@
       ]
    },
    "Zhong, Min": {
-      "prefrences": [
+      "preferences": [
          "Lindberg, Charles",
          "May, Matthew",
          "Hunter, Rachel",
